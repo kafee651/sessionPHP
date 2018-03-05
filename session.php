@@ -24,11 +24,5 @@
     }
       
 ?>
-        <form action="session.php" method="put">
-            First name: <input type="text" name="fname"><br>
-            Last name: <input type="text" name="lname"><br>
-            Userid: <input type="text" name="userid"><br>
-            <input type="submit" value="Submit">
-        </form>
     </body>
 </html>
